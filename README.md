@@ -6,7 +6,7 @@
 
 [官方网站](http://www.tiecode.cn)
 
-[轻云后台](https://0047ol.com/s5droid/)
+[轻云后台](https://app.0047ol.com/)
 
 [结绳助手](https://www.coolapk.com/apk/zky.app.s5dgjx)
 ***
