@@ -12,9 +12,9 @@
 
 点击主页下方的按钮，创建一个安卓应用工程
 
-    <img src="https://s1.ax1x.com/2020/07/24/UXqBIe.jpg" width="100" height="300" alt="创建工程1">
-    <img src="https://s1.ax1x.com/2020/07/24/UXq0aD.jpg " width="100" height="300" alt="创建工程2">
-    <img src="https://s1.ax1x.com/2020/07/24/UXXnKI.jpg" width="100" height="300" alt="创建工程3"  >
+<img src="https://s1.ax1x.com/2020/07/24/UXqBIe.jpg" width="100" height="300" alt="创建工程1">
+<img src="https://s1.ax1x.com/2020/07/24/UXq0aD.jpg " width="100" height="300" alt="创建工程2">
+<img src="https://s1.ax1x.com/2020/07/24/UXXnKI.jpg" width="100" height="300" alt="创建工程3"  >
 
 
 这是工程的菜单界面你可以在这里编辑工程的相关属性
