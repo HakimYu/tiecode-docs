@@ -6,30 +6,12 @@
 
 你现在看到的是结绳的主页
 
-*如果图片太小可以展开下面的菜单查看图片链接</br>或长按图片选择查看图片*
-
-??? info "所有图片"
-    [主页](https://s1.ax1x.com/2020/07/24/UXW8d1.jpg)
-    
-    [创建工程1](https://s1.ax1x.com/2020/07/24/UXqBIe.jpg )
-
-    [创建工程2](https://s1.ax1x.com/2020/07/24/UXq0aD.jpg )
-
-    [创建工程3](https://s1.ax1x.com/2020/07/24/UXXnKI.jpg )
-
-    [代码模式](https://s1.ax1x.com/2020/07/24/UXRy2F.jpg)
-
-<img src="https://s1.ax1x.com/2020/07/24/UXW8d1.jpg" width="100" height="300" alt="图片1" align=center>
-
 主页列出的是所有工程
-
-
 
 ## 创建工程
 
 点击主页下方的按钮，创建一个安卓应用工程
 
-??? info "展开图片"
     <img src="https://s1.ax1x.com/2020/07/24/UXqBIe.jpg" width="100" height="300" alt="创建工程1">
     <img src="https://s1.ax1x.com/2020/07/24/UXq0aD.jpg " width="100" height="300" alt="创建工程2">
     <img src="https://s1.ax1x.com/2020/07/24/UXXnKI.jpg" width="100" height="300" alt="创建工程3"  >
