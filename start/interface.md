@@ -62,7 +62,7 @@
 
 `布局`是软件的重要组成部分
 
-点击  <img src="https://s1.ax1x.com/2020/07/24/UjVKL8.jpg" width="100" height="300" align="middle" alt="布局模式按钮"  >按钮进入`布局模式`
+点击  <img src="https://s1.ax1x.com/2020/07/24/UjVKL8.jpg" width="50" height="50" align="middle" alt="布局模式按钮"  >按钮进入`布局模式`
 
 在布局模式下，我们可以添加自己想要的`组件`
 
