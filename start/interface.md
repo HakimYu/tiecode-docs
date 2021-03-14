@@ -19,11 +19,11 @@
 
 这是工程的菜单界面你可以在这里编辑工程的相关属性
 
-<img src="https://s1.ax1x.com/2020/07/24/UXjHtU.jpg" width="100" height="300" alt="UXXnKI.jpg" >
+<img src="https://s1.ax1x.com/2020/07/24/UXjHtU.jpg" width="100" alt="UXXnKI.jpg" >
 
 点击`可视化程序设计`进入工程编辑界面
 
-<img src="https://s1.ax1x.com/2020/07/24/UXRy2F.jpg" width="100" height="300" alt="代码界面">
+<img src="https://s1.ax1x.com/2020/07/24/UXRy2F.jpg" width="100" alt="代码界面">
 
 默认进入的是`代码模式`，在这里我们可以撰写代码
 
@@ -67,7 +67,7 @@
 
 例如：`按钮、文本框、编辑框、对话框`
 
-  <img src="https://s1.ax1x.com/2020/07/24/UjejiQ.jpg" width="100" height="300" alt="UXXnKI.jpg" align="middle" >
+  <img src="https://s1.ax1x.com/2020/07/24/UjejiQ.jpg" width="100" alt="UXXnKI.jpg" align="middle" >
 
 点击空白处即可调出`组件 自适应布局 属性`
 
