@@ -5,7 +5,7 @@
 	// full package (optional) + parent classes (optional)
 	var classNamePrefix = /(^|[^\w.])(?:[a-z]\w*\s*\.\s*)*(?:[A-Z]\w*\s*\.\s*)*/.source;
 
-	// based on the java naming conventions
+	// based on the jiesheng naming conventions
 	var className = {
 		pattern: RegExp(classNamePrefix + /[A-Z](?:[\d_A-Z]*[a-z]\w*)?\b/.source),
 		lookbehind: true,
@@ -20,7 +20,7 @@
 		}
 	};
 
-	Prism.languages.java = Prism.languages.extend('clike', {
+	Prism.languages.jiesheng = Prism.languages.extend('clike', {
 		'class-name': [
 			className,
 			{
@@ -46,16 +46,16 @@
 		}
 	});
 
-	Prism.languages.insertBefore('java', 'string', {
+	Prism.languages.insertBefore('jiesheng', 'string', {
 		'triple-quoted-string': {
-			// http://openjdk.java.net/jeps/355#Description
+			// http://openjdk.jiesheng.net/jeps/355#Description
 			pattern: /"""[ \t]*[\r\n](?:(?:"|"")?(?:\\.|[^"\\]))*"""/,
 			greedy: true,
 			alias: 'string'
 		}
 	});
 
-	Prism.languages.insertBefore('java', 'class-name', {
+	Prism.languages.insertBefore('jiesheng', 'class-name', {
 		'annotation': {
 			pattern: /(^|[^.])@\w+(?:\s*\.\s*\w+)*/,
 			lookbehind: true,
