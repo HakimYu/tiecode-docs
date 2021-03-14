@@ -21,9 +21,8 @@
 
 <img src="https://s1.ax1x.com/2020/07/24/UXjHtU.jpg" width="100" height="300" alt="UXXnKI.jpg" >
 
-<br/>
 点击`可视化程序设计`进入工程编辑界面
-<br/>
+
 <img src="https://s1.ax1x.com/2020/07/24/UXRy2F.jpg" width="100" height="300" alt="代码界面">
 
 默认进入的是`代码模式`，在这里我们可以撰写代码
