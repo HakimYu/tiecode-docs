@@ -1,6 +1,6 @@
 # 结绳中文编程文档
 
-本文档由[HakimYu](http://wpa.qq.com/msgrd?v=3&uin=2263197083&site=qq&menu=yes)撰写(非官方)
+本文档由[HakimYu](http://wpa.qq.com/msgrd?v=3&uin=2263197083&site=qq&menu=yes)搭建，广大结绳热爱者维护
 
 ## 友情链接
 
