@@ -13,6 +13,7 @@
   * [代码提示](/start/tooltip)
 * 进阶教程
   * [窗口](/next/window)
-  * [文件操作](/next/document-function)
   * [插件](/next/plugins)
+* 方法教程
+  * [文件操作](/fun/filefun)
     
