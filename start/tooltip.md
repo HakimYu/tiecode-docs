@@ -15,7 +15,7 @@
 
 接着我们输入`:` 
 
-在[事件](http://docs.s5droid.ml/start/event/)这一节我们知道了`:`代表这个组件的事件
+在[事件](/start/event/)这一节我们知道了`:`代表这个组件的事件
 
 ![:](https://s1.ax1x.com/2020/07/25/UzTc4g.jpg)
 
