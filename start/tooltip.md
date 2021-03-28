@@ -5,7 +5,7 @@
 合理运用代码提示框可以大大提高编程效率。
 ***
 
-在[事件](http://docs.s5droid.ml/start/event/)中我们学习了按钮的简单事件
+在[事件](https://docs.tiecode.ml/#/start/event)中我们学习了按钮的简单事件
 现在我们用代码提示框来提高我们输入的效率
 输入拼音`ann`，可以看到代码提示框弹出了
 
@@ -15,7 +15,7 @@
 
 接着我们输入`:` 
 
-在[事件](https://docs.tiecode.ml/#/start/event/)这一节我们知道了`:`代表这个组件的事件
+在[事件](https://docs.tiecode.ml/#/start/event)这一节我们知道了`:`代表这个组件的事件
 
 ![:](https://s1.ax1x.com/2020/07/25/UzTc4g.jpg)
 
